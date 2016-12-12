@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Facebook</string>
+    <string name="facebook_app_id">{Your_key_here}</string>
+    <string name="title_activity_main2">MainActivity</string>
+</resources>
